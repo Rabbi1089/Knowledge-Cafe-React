@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "image1.jpg",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author_image": "author1.jpg",
+      "posted_date": "2024-03-20",
+      "reading_time": 30,
+      "hashtag": ["programming", "coding", "technology"]
+    },
+    {
+      "id": 2,
+      "cover": "image2.jpg",
+      "title": "Cooking Mastery",
+      "author": "Jane Smith",
+      "author_image": "author2.jpg",
+      "posted_date": "2024-03-18",
+      "reading_time": 45,
+      "hashtag": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "cover": "image3.jpg",
+      "title": "Financial Freedom",
+      "author": "Alice Johnson",
+      "author_image": "author3.jpg",
+      "posted_date": "2024-03-16",
+      "reading_time": 25,
+      "hashtag": ["finance", "investing", "money"]
+    },
+    {
+      "id": 4,
+      "cover": "image4.jpg",
+      "title": "Fitness Fundamentals",
+      "author": "Michael Brown",
+      "author_image": "author4.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 40,
+      "hashtag": ["fitness", "exercise", "health"]
+    },
+    {
+      "id": 5,
+      "cover": "image5.jpg",
+      "title": "Travel Tales",
+      "author": "Emily Wilson",
+      "author_image": "author5.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 60,
+      "hashtag": ["travel", "adventure", "explore"]
+    }
+  ]
+  
