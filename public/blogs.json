@@ -1,50 +1,50 @@
 [
     {
       "id": 1,
-      "cover": "image1.jpg",
+      "cover": "https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "title": "The Art of Programming",
       "author": "John Doe",
-      "author_image": "author1.jpg",
+      "author_image": "https://i.ibb.co/WczrxXM/boy.jpg",
       "posted_date": "2024-03-20",
       "reading_time": 30,
       "hashtag": ["programming", "coding", "technology"]
     },
     {
       "id": 2,
-      "cover": "image2.jpg",
+      "cover": "https://images.unsplash.com/photo-1603468620905-8de7d86b781e?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "title": "Cooking Mastery",
       "author": "Jane Smith",
-      "author_image": "author2.jpg",
+      "author_image": "https://i.ibb.co/jwtzxbR/girl.jpg",
       "posted_date": "2024-03-18",
       "reading_time": 45,
       "hashtag": ["cooking", "recipes", "food"]
     },
     {
       "id": 3,
-      "cover": "image3.jpg",
+      "cover": "https://media.istockphoto.com/id/1301632890/photo/asian-female-creative-designers-present-ux-ui-to-team-designers-team-working-meeting-in-a.jpg?s=2048x2048&w=is&k=20&c=_EGEYT8fF4bCNCMaNyiSAliD4Ok3hgPzM8jnbUfV_us=",
       "title": "Financial Freedom",
       "author": "Alice Johnson",
-      "author_image": "author3.jpg",
+      "author_image": "https://i.ibb.co/WczrxXM/boy.jpg",
       "posted_date": "2024-03-16",
       "reading_time": 25,
       "hashtag": ["finance", "investing", "money"]
     },
     {
       "id": 4,
-      "cover": "image4.jpg",
+      "cover": "https://media.istockphoto.com/id/1263018609/photo/asia-businesspeople-discussing-business-brainstorm-meeting-together-share-data-and-write-on.jpg?s=2048x2048&w=is&k=20&c=CB-4r1rAop4VJ0bNjW0VAslkRrHuOUQ5UY5riuw_3kk=",
       "title": "Fitness Fundamentals",
       "author": "Michael Brown",
-      "author_image": "author4.jpg",
+      "author_image": "https://i.ibb.co/jwtzxbR/girl.jpg",
       "posted_date": "2024-03-14",
       "reading_time": 40,
       "hashtag": ["fitness", "exercise", "health"]
     },
     {
       "id": 5,
-      "cover": "image5.jpg",
+      "cover": "https://media.istockphoto.com/id/1994344233/photo/female-leader-present-marketing-plan-by-using-mind-map-graph-immaculate.jpg?s=2048x2048&w=is&k=20&c=cG-0FY8God3S6JTbYHusbOar-JHkaXc0AYXNPpDg1Ck=",
       "title": "Travel Tales",
       "author": "Emily Wilson",
-      "author_image": "author5.jpg",
+      "author_image": "https://i.ibb.co/WczrxXM/boy.jpg",
       "posted_date": "2024-03-12",
       "reading_time": 60,
       "hashtag": ["travel", "adventure", "explore"]
